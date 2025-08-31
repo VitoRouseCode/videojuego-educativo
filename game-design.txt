@@ -26,7 +26,8 @@ Se reforzará la resolución de problemas a través de retos colaborativos en eq
 y las evaluaciones se realizarán mediante cuestionarios interactivos, lo que permitirá 
 a los profesores y estudiantes medir el progreso de manera efectiva.
 
-El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para
-[PLATAFORMAS]. Además, se implementarán características como
-[CARACTERÍSTICAS TÉCNICAS ADICIONALES] para garantizar una experiencia de
+El juego se desarrollará usando Unity y tendrá soporte para
+plataformas web, dispositivos móviles y PC. Además, se implementarán características como
+gráficos en 2D animados, sistema de guardado en la nube y accesibilidad multilenguaje
+para garantizar una experiencia de
 juego fluida y atractiva.
