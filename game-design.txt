@@ -9,11 +9,11 @@ juego está diseñado para combinar diversión y educación, permitiendo que los
 estudiantes adquieran conocimientos de manera natural mientras exploran,
 resuelven problemas y superan obstáculos.
 
-El protagonista de esta aventura es [NOMBRE], un/a [DESCRIPCIÓN FÍSICA Y DE
-PERSONALIDAD]. [NOMBRE] es un/a [ROL] que ha sido elegido/a para una misión
-única: [OBJETIVO PRINCIPAL]. Con su [CARACTERÍSTICA ESPECIAL], [NOMBRE]
-deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a
-los jugadores conceptos clave de [MATERIA].
+El protagonista de esta aventura es JUANITO, un CANGREJO CON PERSONALIDAD HUMANA, 
+ROJO Y DE GRANDES PINZAS. ARIEL es un CARACOL que ha sido elegido para una misión única: 
+rescatar la perla del conocimiento perdida en las profundidades del océano. Con su sabiduría 
+para resolver acertijos, Juanito deberá enfrentarse a desafíos cada vez más complejos mientras 
+aprende y enseña a los jugadores conceptos clave de matemáticas.
 
 El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos
 incluirán [TIPO DE DESAFÍOS]
