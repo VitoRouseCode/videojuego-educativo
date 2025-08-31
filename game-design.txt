@@ -25,7 +25,7 @@ Los jugadores aprenderán [CONCEPTO 1] mediante [ACTIVIDAD 1]. Se reforzará
 [MÉTODO], lo que permitirá a los profesores y estudiantes medir el progreso de
 manera efectiva.
 
-El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para
-[PLATAFORMAS]. Además, se implementarán características como
+El juego se desarrollará usando Javascript y tendrá soporte para
+celualres y pc. Además, se implementarán características como
 [CARACTERÍSTICAS TÉCNICAS ADICIONALES] para garantizar una experiencia de
 juego fluida y atractiva.
